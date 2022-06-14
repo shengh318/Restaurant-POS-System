@@ -1,0 +1,18 @@
+S1, Seafood Delight, 海鮮大會, 11.70
+S2, Triple Crown, 炒三樣, 10.10
+S3, Four Seasons, 炒四季, 10.40
+S4, Garlic Chicken Home Style, 成都雞, 9.60, True
+S5, General Tso's Chicken, 左宗雞, 9.60, True
+S6, Orange Flavor Chicken, 陳皮雞, 9.60, True
+S7, Hot & Spicy Shrimp, 干烧蝦, 10.10, True
+S8, Happy Family, 全家福, 11.70
+S9, Chicken & Shrimp Combination, 炒兩樣, 9.80
+S10, Sesame Beef, 芝麻牛, 10.10
+S11, Hunan Double Delight, 炒双喜, 10.70, True
+S12, Subgum Wonton, 什錦雲吞, 10.70
+S13, Sesame Chicken, 芝麻雞, 9.60
+S14, Mongolian Beef, 蒙古牛, 9.60, True
+S14, Mongolian Chicken, 蒙古難, 9.60, True
+S15, General Tso's Shrimp, 左宗蝦, 10.70, True
+S16, Sesame Shrimp, 芝麻蝦, 10.70
+S17, Scallop & Beef, 干貝牛, 10.30

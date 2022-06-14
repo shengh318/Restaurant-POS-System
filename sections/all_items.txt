@@ -1,0 +1,338 @@
+1.Spring Roll-------1.1
+2.Roast Pork Egg Roll-------1.2
+3.Shrimp Egg Roll-------1.4
+4.Fried Dumplings-------5.2
+5.Fried Wonton-------3.4
+6.Apple Sticks-------4.0
+7.Fried Chicken Wings-------5.2
+8.Fried Shrimp-------5.2
+9.Fried Scallops-------2.8
+10.Onion Rings-------3.0
+11.BBQ Spare Ribs-------6.1
+11.BBQ Spare Ribs-------10.5
+12.Boneless BBQ Spare Ribs-------6.1
+12.Boneless BBQ Spare Ribs-------10.5
+13.Fried Cheese Wonton-------3.0
+14.Pu Pu Platter-------5.7
+14.Pu Pu Platter-------10.2
+15.Chicken Teriyaki Stick-------4.8
+15a.Chinese Donut-------3.2
+71.Beef w Mixed Vegetables-------5.3
+71.Beef w Mixed Vegetables-------9.6
+72.Beef w Broccoli-------5.3
+72.Beef w Broccoli-------9.6
+73.Beef w Snow Peas-------5.3
+73.Beef w Snow Peas-------9.6
+74.Curry Beef w Onion-------5.3
+74.Curry Beef w Onion-------9.60
+75.Peppered steak w Onions-------5.3
+75.Peppered steak w Onions-------9.6
+76.Beef w Garlic Sc-------5.3
+76.Beef w Garlic Sc-------9.60
+77.Hunan Beef-------5.3
+77.Hunan Beef-------9.60
+78.Szechuan Beef-------5.3
+78.Szechuan Beef-------9.60
+79.Beef w Mushroom-------5.3
+79.Beef w Mushroom-------9.6
+S1.Seafood Delight-------11.7
+S2.Triple Crown-------10.1
+S3.Four Seasons-------10.4
+S4.Garlic Chicken Home Style-------9.6
+S5.General Tso's Chicken-------9.6
+S6.Orange Flavor Chicken-------9.6
+S7.Hot & Spicy Shrimp-------10.1
+S8.Happy Family-------11.7
+S9.Chicken & Shrimp Combination-------9.8
+S10.Sesame Beef-------10.1
+S11.Hunan Double Delight-------10.7
+S12.Subgum Wonton-------10.7
+S13.Sesame Chicken-------9.6
+S14.Mongolian Beef-------9.6
+S14.Mongolian Chicken-------9.6
+S15.General Tso's Shrimp-------10.7
+S16.Sesame Shrimp-------10.7
+S17.Scallop & Beef-------10.3
+80.Moo Goo Gai Pan-------5.2
+80.Moo Goo Gai Pan-------9.45
+81.Chicken w Broccoli-------5.2
+81.Chicken w Broccoli-------9.45
+82.Chicken w Snow Peas-------5.2
+82.Chicken w Snow Peas-------9.45
+83.Curry Chicken w Onion-------5.2
+83.Curry Chicken w Onion-------9.45
+84.Chicken w Garlic Sc-------5.2
+84.Chicken w Garlic Sc-------9.45
+85.Chicken w Cashew Nuts-------5.2
+85.Chicken w Cashew Nuts-------9.45
+86.Hunan Chicken-------5.2
+86.Hunan Chicken-------9.45
+87.Kung Pao Chicken-------5.2
+87.Kung Pao Chicken-------9.45
+88.Szechuan Chicken-------5.2
+88.Szechuan Chicken-------9.45
+89.Chicken w Black Bean Sc-------5.2
+89.Chicken w Black Bean Sc-------9.45
+89a.Chicken w Mixed Vegetables-------5.2
+89a.Chicken w Mixed Vegetables-------9.45
+43.Chicken Chow Suey-------4.8
+43.Chicken Chow Suey-------8.2
+44.Beef Chow Suey-------4.9
+44.Beef Chow Suey-------8.4
+45.Shrimp Chow Suey-------4.9
+45.Shrimp Chow Suey-------8.4
+46.House Special Chow Suey-------5.1
+46.House Special Chow Suey-------9.1
+43.Chicken Chow Mein-------4.8
+43.Chicken Chow Mein-------8.2
+44.Beef Chow Mein-------4.9
+44.Beef Chow Mein-------8.4
+45.Shrimp Chow Mein-------4.9
+45.Shrimp Chow Mein-------8.4
+46.House Special Chow Mein-------5.1
+46.House Special Chow Mein-------9.1
+H1.Chicken w Broccoli-------5.2
+H1.Chicken w Broccoli-------9.45
+H2.Chicken w Mixed Vegetable-------5.2
+H2.Chicken w Mixed Vegetable-------9.45
+H3.Shrimp w Broccoli-------5.3
+H3.Shrimp w Broccoli-------9.6
+H4.Seafood Combination-------11.7
+H5.Mixed Chinese Vegetable-------7.3
+56.Vegetable Egg Foo Young-------6.3
+57.Roast Pork Egg Foo Young-------6.8
+58.Chicken Egg Foo Young-------6.8
+59.Beef Egg Foo Young-------7.2
+60.Shrimp Egg Foo Young-------7.2
+25.Plain Fried Rice-------3.0
+25.Plain Fried Rice-------5.0
+26.Vegetable Fried Rice-------3.8
+26.Vegetable Fried Rice-------6.7
+27.Young Chow Fried Rice-------5.3
+27.Young Chow Fried Rice-------9.0
+28.Roast Pork Fried Rice-------4.0
+28.Roast Pork Fried Rice-------7.1
+29.Chicken Fried Rice-------4.0
+29.Chicken Fried Rice-------7.1
+30.Beef Fried Rice-------4.6
+30.Beef Fried Rice-------7.8
+31.Shrimp Fried Rice-------4.6
+31.Shrimp Fried Rice-------7.8
+32.House Special Fried Rice-------5.1
+32.House Special Fried Rice-------8.8
+33.Lobster Meat Fried Rice-------5.1
+33.Lobster Meat Fried Rice-------8.8
+34.Plain Lo Mein-------4.0
+34.Plain Lo Mein-------6.8
+35.Vegetable Lo Mein-------4.2
+35.Vegetable Lo Mein-------7.15
+36.Roast Pork Lo Mein-------4.6
+36.Roast Pork Lo Mein-------7.7
+37.Chicken Lo Mein-------4.6
+37.Chicken Lo Mein-------7.7
+38.Beef Lo Mein-------4.9
+38.Beef Lo Mein-------8.2
+39.Shrimp Lo Mein-------4.9
+39.Shrimp Lo Mein-------8.2
+40.House Special Lo Mein-------5.2
+40.House Special Lo Mein-------9.2
+41.Lobster Meat Lo Mein-------5.2
+41.Lobster Meat Lo Mein-------9.2
+42.Szechuan Lo Mein-------5.2
+42.Szechuan Lo Mein-------9.20
+L1.Chicken Chow Mein-------5.45
+L1.Shrimp Chow Mein-------5.45
+L2.Mixed Chinese Veg-------5.45
+L3.Fried Chicken Wings-------5.45
+L4.Pork Lo Mein-------5.45
+L4.Chicken Lo Mein-------5.45
+L5.Roast Pork w Mixed Veg-------5.45
+L5.Chicken w Mixed Veg-------5.45
+L6.Shredded Pork w Garlic Sc-------5.45
+L6.Roast Pork w Garlic Sc-------5.45
+L7.Curry Chicken w Onion-------5.45
+L7.Curry Shrimp w Onion-------5.45
+L8.Moo Goo Gai Pan-------5.45
+L8.Moo Goo Beef-------5.45
+L9.Chicken w Broccoli-------5.45
+L9.Beef w Broccoli-------5.45
+L10.Hunan Chicken-------5.45
+L10.Hunan Beef-------5.45
+L11.General Tao's Chicken-------5.45
+L12.Sweet & Sour Chicken-------5.45
+L12.Sweet & Sour Pork-------5.45
+L13.Chicken w Cashew Nuts-------5.45
+L13.Shrimp w Cashew Nuts-------5.45
+L14.Chicken w Garlic Sc-------5.45
+L14.Beef w Garlic Sc-------5.45
+L15.Roast Pork w Snow Peas-------5.45
+L15.Chicken w Snow Peas-------5.45
+L16.Pepper Steak w Onion-------5.45
+L16.Pepper Chicken w Onion-------5.45
+L17.Beef w Snow Peas-------5.45
+L17.Shrimp w Snow Peas-------5.45
+L18.Shrimp Lo Mein-------5.45
+L18.Beef Lo Mein-------5.45
+L19.Szechuan Beef-------5.45
+L19.Szechuan Chicken-------5.45
+L20.Sweet & Sour Combination-------5.45
+L21.Roast Pork Egg Foo Young-------5.45
+L21.Shrimp Egg Foo Young-------5.45
+L22.Shrimp w Lobster Sc-------5.45
+L13.Sweet & Sour Shrimp-------5.45
+L24.Shrimp w Mixed Veg-------5.45
+L24.Beef w Mixed Veg-------5.45
+L25.Shrimp w Broccoli-------5.45
+L25.Roast Pork w Broccoli-------5.45
+L26.Shrimp w Garlic Sc-------5.45
+L27.Triple Crown-------5.45
+L28.Boneless BBQ Ribs-------5.45
+L29.Sesame Chicken-------5.45
+L30.Scallops & Beef-------5.45
+L31.Orange Chicken-------5.45
+L32.Kung Pao Chicken-------5.45
+L32.Kung Pao Shrimp-------5.45
+L33.Sweet & Sour Pork-------5.45
+A.Vegetable Mei Fun-------7.2
+B.Roast Pork Mei Fun-------7.8
+B.Chicken Mei Fun-------7.8
+C.Beef Mei Fun-------8.3
+C.Shrimp Mei Fun-------8.3
+D.House Special Mei Fun-------9.2
+E.Singapore Mei Fun-------9.2
+61.Moo Shu Vegetable-------7.3
+62.Moo Shu Pork-------8.25
+63.Moo Shu Chicken-------8.25
+64.Moo Shu Beef-------8.45
+65.Moo Shu Shrimp-------8.55
+66.Roast Pork w Mixed Veg-------5.2
+66.Roast Pork w Mixed Veg-------9.45
+67.Roast Pork w Broccoli-------5.2
+67.Roast Pork w Broccoli-------9.45
+68.Roast Pork w Mushroom-------5.2
+68.Roast Pork w Mushroom-------9.45
+69.Shredded Pork w Garlic Sc-------5.2
+69.Shredded Pork w Garlic Sc-------9.45
+70.Roast Pork Hunan Style-------5.2
+70.Roast Pork Hunan Style-------9.45
+90.Shrimp w Lobster Sc-------5.3
+90.Shrimp w Lobster Sc-------9.6
+91.Shrimp w Chinese Vegetables-------5.3
+91.Shrimp w Chinese Vegetables-------9.6
+92.Shrimp w Broccoli-------5.3
+92.Shrimp w Broccoli-------9.6
+93.Curry Shrimp w Onion-------5.3
+93.Curry Shrimp w Onion-------9.60
+94.Shrimp w Snow Peas-------5.3
+94.Shrimp w Snow Peas-------9.6
+95.Kung Pao Shrimp-------5.3
+95.Kung Pao Shrimp-------9.60
+96.Shrimp w garlic Sc-------5.3
+96.Shrimp w garlic Sc-------9.60
+97.Shrimp w Cashew Nuts-------5.3
+97.Shrimp w Cashew Nuts-------9.6
+98.Shrimp w Hunan Style-------5.3
+98.Shrimp w Hunan Style-------9.60
+99.Scalllops w Mixed Vegetables-------5.3
+99.Scalllops w Mixed Vegetables-------9.6
+100.Scallops w Garlic Sc-------5.3
+100.Scallops w Garlic Sc-------9.60
+101.Shrimp w Szechuan Style-------5.3
+101.Shrimp w Szechuan Style-------9.60
+0.White Rice-------1.5
+0.White Rice-------2.5
+0.Fried Noodle-------0.6
+0.Fortune Cookies-------0.5
+16.Wonton Soup-------2.2
+16.Wonton Soup-------3.7
+17.Egg Drop Soup-------2.2
+17.Egg Drop Soup-------3.7
+18.Chicken Noodle Soup-------2.2
+18.Chicken Noodle Soup-------3.7
+19.Chicken Rice Soup-------2.2
+19.Chicken Rice Soup-------3.7
+20.Wonton & Egg Drop Soup Mix-------2.4
+20.Wonton & Egg Drop Soup Mix-------3.9
+22.Hot and Sour Soup-------2.4
+22.Hot and Sour Soup-------4.20
+23.Vegetable Soup-------2.2
+23.Vegetable Soup-------3.7
+24.House Special Soup-------4.7
+C1.Chicken Chow Mein-------7.65
+C1.Shrimp Chow Mein-------7.65
+C2.Mixed Chinese Vegetables-------7.65
+C3.Fried Chicken Wing-------7.65
+C4.Pork Lo Mein-------7.65
+C4.Chicken Lo Mein-------7.65
+C5.Roasted Pork w Mixed Veg-------7.65
+C5.Roasted Chicken w Mixed Veg-------7.65
+C6.Shredded Pork w Garlic Sc-------7.65
+C6.Roasted Pork w Garlic Sc-------7.65
+C7.Curry Chicken w Onion-------7.65
+C7.Curry Shrimp w Onion-------7.65
+C8.Moo Goo Gai Pan-------7.65
+C8.Moo Goo Beef-------7.65
+C9.Chicken w Broccoli-------7.65
+C9.Beef w Broccoli-------7.65
+C10.Hunan Chicken-------7.65
+C10.Hunan Beef-------7.65
+C11.General Tso's Chicken-------7.65
+C12.Sweet & Sour Pork-------7.65
+C12.Sweet & Sour Chicken-------7.65
+C13.Chicken w Cashew Nuts-------7.65
+C13.Shrimp w Cashew Nuts-------7.65
+C14.Chicken w Garlic Sc-------7.65
+C14.Beef w Garlic Sc-------7.65
+C15.Chicken w Snow Peas-------7.65
+C15.Roast Pork w Snow Peas-------7.65
+C16.Pepper Steak w Onion-------7.65
+C16.Chicken w Onion-------7.65
+C17.Shrimp w Snow Peas-------7.65
+C17.Beef w Snow Peas-------7.65
+C18.Shrimp Lo Mein-------7.65
+C18.Beef Lo Mein-------7.65
+C19.Szechuan Beef-------7.65
+C19.Szechuan Chicken-------7.65
+C20.Sweet & Sour Combination-------7.65
+C21.Roast Pork Egg Foo Young-------7.65
+C21.Roast Shrimp Egg Foo Young-------7.65
+C22.Shrimp w Lobster Sc-------7.65
+C23.Sweet & Sour Shrimp-------7.65
+C24.Beef w Mixed Veg-------7.65
+C24.Shrimp w Mixed Veg-------7.65
+C25.Roast Pork w Broccoli-------7.65
+C25.Shrimp w Broccoli-------7.65
+C26.Shrimp w Garlic Sc-------7.65
+C27.Triple Crown-------7.65
+C28.Boneless BBQ Ribs-------7.65
+C29.Sesame Chicken-------7.65
+C30.Scallops & Beef-------7.65
+C31.Orange Chicken-------7.65
+C32.Szechuan Shrimp-------7.65
+C33.Chicken Teriyaki Sticks-------7.65
+C34.Garlic Chicken Home Style-------7.65
+C35.Sweet & Sour Pineapple Pork-------7.65
+C36.BBQ Ribs-------7.65
+C37.Kung Pao Chicken-------7.65
+C37.Kung Pao Shrimp-------7.65
+47.Sweet & Sour Pork-------4.9
+47.Sweet & Sour Pork-------8.4
+48.Sweet & Sour Chicken-------4.9
+48.Sweet & Sour Chicken-------8.4
+49.Sweet & Sour Shrimp-------5.3
+49.Sweet & Sour Shrimp-------9.5
+50.Sweet & Sour Combination-------5.4
+50.Sweet & Sour Combination-------9.7
+51.Sweet & Sour Pineapple Pork-------5.4
+51.Sweet & Sour Pineapple Pork-------9.5
+52.Mixed Chinese Vegetables-------4.2
+52.Mixed Chinese Vegetables-------7.3
+53.Broccoli w Garlic Sc-------4.2
+53.Broccoli w Garlic Sc-------7.30
+54.Bean Curd Home Style-------7.3
+55.Mixed Veg w Garlic Sc-------4.2
+55.Mixed Veg w Garlic Sc-------7.30
+55a.Ma Po Tofu-------7.3
+55b.Plain Broccoli-------4.2
+55b.Plain Broccoli-------7.3
+55c.Tofu & Broccoli w Garlic Sc-------6.2

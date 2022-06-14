@@ -1,0 +1,12 @@
+90, Shrimp w Lobster Sc, 蝦龍糊, 5.30, 9.60
+91, Shrimp w Chinese Vegetables, 白菜蝦, 5.30, 9.60
+92, Shrimp w Broccoli, 西蘭蝦, 5.30, 9.60
+93, Curry Shrimp w Onion, 咖哩蝦, 5.30, 9.60, True
+94, Shrimp w Snow Peas, 雪豆蝦, 5.30, 9.60
+95, Kung Pao Shrimp, 宮保蝦, 5.30, 9.60, True
+96, Shrimp w garlic Sc, 魚香蝦, 5.30, 9.60, True
+97, Shrimp w Cashew Nuts, 腰果蝦, 5.30, 9.60
+98, Shrimp w Hunan Style, 湖南蝦, 5.30, 9.60, True
+99, Scalllops w Mixed Vegetables, 什菜干貝, 5.30, 9.60
+100, Scallops w Garlic Sc, 魚香干貝, 5.30, 9.60, True
+101, Shrimp w Szechuan Style, 四川蝦, 5.30, 9.60, True

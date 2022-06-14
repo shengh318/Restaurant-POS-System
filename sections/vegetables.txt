@@ -1,0 +1,7 @@
+52, Mixed Chinese Vegetables, 素什錦, 4.20, 7.30
+53, Broccoli w Garlic Sc, 魚香芥蘭, 4.20, 7.30, True
+54, Bean Curd Home Style, 家常豆腐, 7.30
+55, Mixed Veg w Garlic Sc, 魚香什菜, 4.20, 7.30, True
+55a, Ma Po Tofu, 麻婆豆腐, 7.30, True
+55b, Plain Broccoli, 淨挤蘭, 4.20, 7.30
+55c, Tofu & Broccoli w Garlic Sc, 魚香豆腐芥蘭, 6.20, True

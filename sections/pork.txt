@@ -1,0 +1,5 @@
+66, Roast Pork w Mixed Veg, 什菜叉燒, 5.20, 9.45
+67, Roast Pork w Broccoli, 芬蘭叉燒, 5.20, 9.45
+68, Roast Pork w Mushroom, 蘑菇叉燒, 5.20, 9.45
+69, Shredded Pork w Garlic Sc, 魚香肉絲, 5.20, 9.45, True
+70, Roast Pork Hunan Style, 湖南肉, 5.20, 9.45, True

@@ -1,0 +1,57 @@
+C1, Chicken Chow Mein, 雞炒麵, 7.65
+C1, Shrimp Chow Mein, 蝦炒麵, 7.65
+C2, Mixed Chinese Vegetables, 素什錦, 7.65
+C3, Fried Chicken Wing, 炸雞翅, 7.65
+C4, Pork Lo Mein, 叉撈麵, 7.65
+C4, Chicken Lo Mein, 雞撈麵, 7.65
+C5, Roasted Pork w Mixed Veg, 什菜叉燒, 7.65
+C5, Roasted Chicken w Mixed Veg, 難叉燒, 7.65
+C6, Shredded Pork w Garlic Sc, 魚香肉絲, 7.65, True
+C6, Roasted Pork w Garlic Sc, 魚香叉燒, 7.65, True
+C7, Curry Chicken w Onion, 咖喱雞, 7.65, True
+C7, Curry Shrimp w Onion, 咖喱蝦, 7.65, True
+C8, Moo Goo Gai Pan, 蘑菇雞片, 7.65
+C8, Moo Goo Beef, 蘑菇牛, 7.65
+C9, Chicken w Broccoli, 芥蘭雞, 7.65
+C9, Beef w Broccoli, 芥蘭牛, 7.65
+C10, Hunan Chicken, 湖南雞, 7.65, True
+C10, Hunan Beef, 湖南牛, 7.65, True
+C11, General Tso's Chicken, 左宗雞, 7.65, True
+C12, Sweet & Sour Pork, 甜酸肉, 7.65
+C12, Sweet & Sour Chicken, 甜酸雞, 7.65
+C13, Chicken w Cashew Nuts, 腰果雞, 7.65
+C13, Shrimp w Cashew Nuts, 腰果蝦, 7.65
+C14, Chicken w Garlic Sc, 魚香雞, 7.65, True
+C14, Beef w Garlic Sc, 魚香牛, 7.65, True
+C15, Chicken w Snow Peas, 雪豆雞, 7.65
+C15, Roast Pork w Snow Peas, 雪豆叉, 7.65
+C16, Pepper Steak w Onion, 青椒牛, 7.65
+C16, Chicken w Onion, 青椒雞, 7.65
+C17, Shrimp w Snow Peas, 雪豆蝦, 7.65
+C17, Beef w Snow Peas, 雪豆牛, 7.65
+C18, Shrimp Lo Mein, 蝦撈麵, 7.65
+C18, Beef Lo Mein, 牛撈麵, 7.65
+C19, Szechuan Beef, 四川牛, 7.65, True
+C19, Szechuan Chicken, 四川雞, 7.65, True
+C20, Sweet & Sour Combination, 甜酸三樣, 7.65
+C21, Roast Pork Egg Foo Young, 叉蓉蛋, 7.65
+C21, Roast Shrimp Egg Foo Young, 蝦蓉蛋, 7.65
+C22, Shrimp w Lobster Sc, 蝦龍糊, 7.65
+C23, Sweet & Sour Shrimp, 甜心酸蝦, 7.65
+C24, Beef w Mixed Veg, 什菜牛, 7.65
+C24, Shrimp w Mixed Veg, 什菜蝦, 7.65
+C25, Roast Pork w Broccoli, 芥蘭叉燒, 7.65
+C25, Shrimp w Broccoli, 芥蘭蝦, 7.65
+C26, Shrimp w Garlic Sc, 魚香蝦, 7.65, True
+C27, Triple Crown, 炒三樣, 7.65
+C28, Boneless BBQ Ribs, 無人骨排, 7.65
+C29, Sesame Chicken, 芝麻雞, 7.65
+C30, Scallops & Beef, 千貝牛, 7.65
+C31, Orange Chicken, 陳皮雞, 7.65, True
+C32, Szechuan Shrimp, 四川蝦, 7.65, True
+C33, Chicken Teriyaki Sticks, 雞串, 7.65
+C34, Garlic Chicken Home Style, 成都雞, 7.65, True
+C35, Sweet & Sour Pineapple Pork, 荔技肉, 7.65
+C36, BBQ Ribs, 燒排骨, 7.65
+C37, Kung Pao Chicken, 宮保雞, 7.65, True
+C37, Kung Pao Shrimp, 宮保瑕, 7.65, True

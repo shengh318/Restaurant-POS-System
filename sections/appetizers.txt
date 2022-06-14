@@ -1,0 +1,16 @@
+1, Spring Roll, 上海春卷, 1.10
+2, Roast Pork Egg Roll, 春卷, 1.20
+3, Shrimp Egg Roll, 蝦卷, 1.40
+4, Fried Dumplings, 水餃, 5.20
+5, Fried Wonton, 炸雲吞, 3.40
+6, Apple Sticks, 蘋果條, 4.00
+7, Fried Chicken Wings, 炸鸡翅, 5.20
+8, Fried Shrimp, 炸小蝦, 5.20
+9, Fried Scallops, 炸干員, 2.80
+10, Onion Rings, 洋意圈, 3.00
+11, BBQ Spare Ribs, 燒排骨, 6.10, 10.50
+12, Boneless BBQ Spare Ribs, 無骨排骨, 6.10, 10.50
+13, Fried Cheese Wonton, 炸芝士雲吞, 3.00
+14, Pu Pu Platter, 寶賓船, 5.70, 10.20
+15, Chicken Teriyaki Stick, 雞肉串, 4.80
+15a, Chinese Donut, 炸麵包, 3.20

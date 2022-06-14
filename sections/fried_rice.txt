@@ -1,0 +1,9 @@
+25, Plain Fried Rice, 淨炒飯, 3.00, 5.00
+26, Vegetable Fried Rice, 素菜炒飯, 3.80, 6.70
+27, Young Chow Fried Rice, 揚州炒飯, 5.30, 9.00
+28, Roast Pork Fried Rice, 叉燒炒飯, 4.00, 7.10
+29, Chicken Fried Rice, 雞炒飯, 4.00, 7.10
+30, Beef Fried Rice, 牛炒飯, 4.60, 7.80
+31, Shrimp Fried Rice, 蝦炒飯, 4.60, 7.80
+32, House Special Fried Rice, 本樓炒飯, 5.10, 8.80
+33, Lobster Meat Fried Rice, 龍蝦炒飯, 5.10, 8.80

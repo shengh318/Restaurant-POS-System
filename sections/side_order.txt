@@ -1,0 +1,3 @@
+0, White Rice, 白饭, 1.50, 2.50
+0, Fried Noodle, 饼干, 0.60
+0, Fortune Cookies, 幸运饼干, 0.50

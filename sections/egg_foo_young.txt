@@ -1,0 +1,5 @@
+56, Vegetable Egg Foo Young, 素菜蓉蛋, 6.30
+57, Roast Pork Egg Foo Young, 叉燒蓉蛋, 6.80
+58, Chicken Egg Foo Young, 雞蓉蛋, 6.80
+59, Beef Egg Foo Young, 牛蓉蛋, 7.20
+60, Shrimp Egg Foo Young, 蝦蓉蛋, 7.20

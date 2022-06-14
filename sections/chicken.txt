@@ -1,0 +1,11 @@
+80, Moo Goo Gai Pan, 蘑菇雞片, 5.20, 9.45
+81, Chicken w Broccoli, 芥蘭雖, 5.20, 9.45
+82, Chicken w Snow Peas, 雪豆難, 5.20, 9.45
+83, Curry Chicken w Onion, 咖哩難, 5.20, 9.45, True
+84, Chicken w Garlic Sc, 魚香難, 5.20, 9.45, True
+85, Chicken w Cashew Nuts, 腰果難, 5.20, 9.45
+86, Hunan Chicken, 湖南難, 5.20, 9.45, True
+87, Kung Pao Chicken, 宮保難, 5.20, 9.45, True
+88, Szechuan Chicken, 四川難, 5.20, 9.45, True
+89, Chicken w Black Bean Sc, 黑豆難, 5.20, 9.45
+89a, Chicken w Mixed Vegetables, 什菜難, 5.20, 9.45

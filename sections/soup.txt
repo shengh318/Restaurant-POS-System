@@ -1,0 +1,8 @@
+16, Wonton Soup, 雲吞湯, 2.20, 3.70
+17, Egg Drop Soup, 蛋花湯, 2.20, 3.70
+18, Chicken Noodle Soup, 雞藝湯, 2.20, 3.70
+19, Chicken Rice Soup, 雞飯湯, 2.20, 3.70
+20, Wonton & Egg Drop Soup Mix, 雲吞蛋花湯, 2.40, 3.90
+22, Hot and Sour Soup, 酸辣湯, 2.40, 4.20, True
+23, Vegetable Soup, 素菜湯, 2.20, 3.70
+24, House Special Soup, 本樓湯, 4.70

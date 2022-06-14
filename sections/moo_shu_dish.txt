@@ -1,0 +1,5 @@
+61, Moo Shu Vegetable, 木須菜, 7.30
+62, Moo Shu Pork, 木須肉, 8.25
+63, Moo Shu Chicken, 木須雞, 8.25
+64, Moo Shu Beef, 木須牛, 8.45
+65, Moo Shu Shrimp, 木須蝦, 8.55

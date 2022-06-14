@@ -1,0 +1,5 @@
+47, Sweet & Sour Pork, 甜酸肉, 4.90, 8.40
+48, Sweet & Sour Chicken, 甜酸雞, 4.90, 8.40
+49, Sweet & Sour Shrimp, 甜酸蝦, 5.30, 9.50
+50, Sweet & Sour Combination, 甜酸大會, 5.40, 9.70
+51, Sweet & Sour Pineapple Pork, 荔技肉, 5.40, 9.50

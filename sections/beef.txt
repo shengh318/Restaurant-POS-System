@@ -1,0 +1,9 @@
+71, Beef w Mixed Vegetables, 什菜牛, 5.30, 9.60
+72, Beef w Broccoli, 芥蘭牛, 5.30, 9.60
+73, Beef w Snow Peas, 雪豆牛, 5.30, 9.60
+74, Curry Beef w Onion, 咖哩牛, 5.30, 9.60, True
+75, Peppered steak w Onions, 青椒牛, 5.30, 9.60
+76, Beef w Garlic Sc, 魚香牛, 5.30, 9.60, True
+77, Hunan Beef, 湖南牛, 5.30, 9.60, True
+78, Szechuan Beef, 四川牛, 5.30, 9.60, True
+79, Beef w Mushroom, 蘑菇牛, 5.30, 9.60

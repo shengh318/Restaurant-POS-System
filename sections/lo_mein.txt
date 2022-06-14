@@ -1,0 +1,9 @@
+34, Plain Lo Mein, 淨撈麵, 4.00, 6.80
+35, Vegetable Lo Mein, 素菜撈麵, 4.20, 7.15
+36, Roast Pork Lo Mein, 叉燒撈麵, 4.60, 7.70
+37, Chicken Lo Mein, 難撈麵, 4.60, 7.70
+38, Beef Lo Mein, 牛撈麵, 4.90, 8.20
+39, Shrimp Lo Mein, 蝦捞麵, 4.90, 8.20
+40, House Special Lo Mein, 本樓撈麵, 5.20, 9.20
+41, Lobster Meat Lo Mein, 龍蝦撈麵, 5.20, 9.20
+42, Szechuan Lo Mein, 四川撈麵, 5.20, 9.20, True

@@ -1,0 +1,7 @@
+A, Vegetable Mei Fun, 菜米粉, 7.20
+B, Roast Pork Mei Fun, 叉燒米粉, 7.80
+B, Chicken Mei Fun, 雞米粉, 7.80
+C, Beef Mei Fun, 牛米粉, 8.30
+C, Shrimp Mei Fun, 蝦米粉, 8.30
+D, House Special Mei Fun, 本樓米粉, 9.20
+E, Singapore Mei Fun, 星洲米粉, 9.20, True

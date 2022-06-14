@@ -1,0 +1,5 @@
+H1, Chicken w Broccoli, 芥兰鸡, 5.20, 9.45
+H2, Chicken w Mixed Vegetable, 什菜鸡, 5.20, 9.45
+H3, Shrimp w Broccoli, 芥兰虾, 5.30, 9.60
+H4, Seafood Combination, 海鲜大会, 11.70
+H5, Mixed Chinese Vegetable, 素什锦, 7.30

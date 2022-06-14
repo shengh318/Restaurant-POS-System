@@ -1,0 +1,53 @@
+L1, Chicken Chow Mein, 雞炒麵, 5.45
+L1, Shrimp Chow Mein, 蝦炒麵, 5.45
+L2, Mixed Chinese Veg, 素什錦, 5.45
+L3, Fried Chicken Wings, 炸雞翅, 5.45
+L4, Pork Lo Mein, 肉撈麵, 5.45
+L4, Chicken Lo Mein, 雞撈麵, 5.45
+L5, Roast Pork w Mixed Veg, 什菜叉, 5.45
+L5, Chicken w Mixed Veg, 什菜雞, 5.45
+L6, Shredded Pork w Garlic Sc, 魚香肉絲, 5.45, True
+L6, Roast Pork w Garlic Sc, 魚香叉燒, 5.45, True
+L7, Curry Chicken w Onion, 咖喱雞, 5.45, True
+L7, Curry Shrimp w Onion, 咖喱蝦, 5.45, True
+L8, Moo Goo Gai Pan, 蘑菇雞片, 5.45
+L8, Moo Goo Beef, 蘑菇牛, 5.45
+L9, Chicken w Broccoli, 芬蘭雞, 5.45
+L9, Beef w Broccoli, 芬蘭牛, 5.45
+L10, Hunan Chicken, 湖南雞, 5.45, True
+L10, Hunan Beef, 湖南牛, 5.45, True
+L11, General Tao's Chicken, 左宗雞, 5.45, True
+L12, Sweet & Sour Chicken, 甜酸雞, 5.45
+L12, Sweet & Sour Pork, 甜酸肉, 5.45
+L13, Chicken w Cashew Nuts, 腰果雞, 5.45
+L13, Shrimp w Cashew Nuts, 腰果蝦, 5.45
+L14, Chicken w Garlic Sc, 魚香雞, 5.45
+L14, Beef w Garlic Sc, 魚香牛, 5.45
+L15, Roast Pork w Snow Peas, 雪豆叉燒, 5.45
+L15, Chicken w Snow Peas, 雪豆雞, 5.45
+L16, Pepper Steak w Onion, 青椒牛, 5.45
+L16, Pepper Chicken w Onion, 青椒雞, 5.45
+L17, Beef w Snow Peas, 雪豆牛, 5.45
+L17, Shrimp w Snow Peas, 雪豆蝦, 5.45
+L18, Shrimp Lo Mein, 蝦撈麵, 5.45
+L18, Beef Lo Mein, 牛撈麵, 5.45
+L19, Szechuan Beef, 四川牛, 5.45, True
+L19, Szechuan Chicken, 四川雞, 5.45, True
+L20, Sweet & Sour Combination, 甜酸三樣, 5.45
+L21, Roast Pork Egg Foo Young, 叉燒蓉蛋, 5.45
+L21, Shrimp Egg Foo Young, 蝦蓉蛋, 5.45
+L22, Shrimp w Lobster Sc, 蝦龍網, 5.45
+L13, Sweet & Sour Shrimp, 甜酸蝦, 5.45
+L24, Shrimp w Mixed Veg, 什菜蝦, 5.45
+L24, Beef w Mixed Veg, 什菜牛, 5.45
+L25, Shrimp w Broccoli, 芥蘭蝦, 5.45
+L25, Roast Pork w Broccoli, 芥蘭叉燒, 5.45
+L26, Shrimp w Garlic Sc, 魚香蝦, 5.45, True
+L27, Triple Crown, 炒三樣, 5.45
+L28, Boneless BBQ Ribs, 無骨排骨, 5.45
+L29, Sesame Chicken, 芝麻雞, 5.45
+L30, Scallops & Beef, 千貝牛, 5.45
+L31, Orange Chicken, 陳皮雞, 5.45, True
+L32, Kung Pao Chicken, 宮保雞, 5.45, True
+L32, Kung Pao Shrimp, 宮保蝦, 5.45, True
+L33, Sweet & Sour Pork, 荔技肉, 5.45

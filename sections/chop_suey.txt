@@ -1,0 +1,4 @@
+43, Chicken Chow Suey, 雞炒麵, 4.80, 8.20
+44, Beef Chow Suey, 牛炒麵, 4.90, 8.40
+45, Shrimp Chow Suey, 蝦炒麵, 4.90, 8.40
+46, House Special Chow Suey, 本樓炒麵, 5.10, 9.10
